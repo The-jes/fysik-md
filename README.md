@@ -3,7 +3,17 @@ Min USB BOG
 Alle filer ligger sorteret efter emmne og efterfølgende efter Dato som Følgende:
 ```
 Fys
-  \->  [Emmne 1]
-            \-> [MM-JJ]
+  \->  [Emmne]
+            \-> Husk-[Emmne]
+                [MM-JJ]
                     \-> [DDMMJJ]
 ```
+
+Alle filer er strukturered som Følgende:
+
+# [Matrixfeld]
+## [OPG]
+### [Delopgave]
+
+---
+### [Delopgave 2]
